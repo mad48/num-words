@@ -57,4 +57,4 @@ $ git clone https://github.com/mad48/num-words.git
 
 [//]: #
 
-[Demo]: <https://mad48.github.io/num-words/index.html>
+[Демо]: <https://mad48.github.io/num-words/index.html>
